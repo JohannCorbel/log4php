@@ -13,6 +13,9 @@
         "source": "https://svn.apache.org/repos/asf/logging/log4php",
         "email": "log4php-user@logging.apache.org"
     },
+    "config": {
+        "github-protocols": ["https"]
+    },    
     "autoload": {
         "classmap": ["src/main/php/"]
     },
